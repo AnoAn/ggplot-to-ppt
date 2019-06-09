@@ -1,3 +1,3 @@
 # GGplot to PPT
 
-The script simply shows how to export several images generated using ggplot in editable format (often required by scientific journals) in a single ppt file.
+The script simply shows how to export in editable format (often required by scientific journals) several images generated using ggplot to a single ppt file.
